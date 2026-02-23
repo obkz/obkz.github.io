@@ -16,7 +16,7 @@
 2. Obara, K., Furuta, T., Yagi, C., Nakai, N., Suzuki, J., Katsuno, M., & Ito, Y. (2024). Convexity subarachnoid hemorrhage revealed contralateral internal carotid artery dissection due to Eagle syndrome: a case report. *BMC Neurology*, 24, 1-6. Article 380. https://doi.org/10.1186/s12883-024-03890-y
 3. Obara, K., Tsuboi, T., Mori, Y., Sanda, A., Mouri, N., Takagi, S., Aoki, S., & Katsuno, M. (2025). Persistence Pays: Diagnosing Tuberculous Meningitis after 11 Negative Polymerase Chain Reaction Evaluations. *Internal Medicine*, 64, 931-936. https://doi.org/10.2169/internalmedicine.4087-24
 
-Full publication list: [ORCID](https://orcid.org/0009-0006-5170-9169)
+Full publication list: [ORCID](https://orcid.org/0009-0006-5170-9169) · 
 Japanese academic records: [Researchmap](https://researchmap.jp/obkz?lang=en)
 
 ## Ongoing Projects
