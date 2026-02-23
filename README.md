@@ -1,5 +1,8 @@
 # Neurologist · Clinical Researcher
 
+- MD · PhD Student, Lund University & Nagoya University  
+- Board-certified Clinical Neurologist (Japan)
+
 [University Profile](https://portal.research.lu.se/en/persons/kazuki-obara/) · 
 [ORCID](https://orcid.org/0009-0006-5170-9169) · 
 [LinkedIn](https://www.linkedin.com/in/obkz) · 
